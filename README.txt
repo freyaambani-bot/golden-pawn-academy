@@ -1,0 +1,1 @@
+Upload index.html, style.css and script.js to a GitHub repository and enable GitHub Pages from Settings > Pages.

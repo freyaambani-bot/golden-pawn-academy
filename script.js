@@ -1,0 +1,1 @@
+function book(slot){const msg=`Hello, I want to request a personal chess coaching slot: ${slot}. Please confirm availability.`;document.getElementById('selected').innerHTML=`Selected: <b>${slot}</b> — opening WhatsApp...`;setTimeout(()=>window.open('https://wa.me/918888836632?text='+encodeURIComponent(msg),'_blank'),500);}
